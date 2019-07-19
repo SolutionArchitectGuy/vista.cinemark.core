@@ -1,0 +1,1 @@
+# vista.cinemark.core
